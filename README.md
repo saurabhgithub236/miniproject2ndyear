@@ -1,3 +1,4 @@
 # miniproject2ndyear
 <br>
-Team members - Rishikesh, Saurabh, Shaurya
+Team members - Rishikesh Saurabh Shaurya
+
